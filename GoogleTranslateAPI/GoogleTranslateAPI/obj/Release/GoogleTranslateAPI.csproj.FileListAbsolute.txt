@@ -1,0 +1,15 @@
+G:\VSProject\GoogleTTSPlayer\GoogleTranslateAPI\GoogleTranslateAPI\bin\Release\GoogleTranslateAPI.dll
+G:\VSProject\GoogleTTSPlayer\GoogleTranslateAPI\GoogleTranslateAPI\bin\Release\GoogleTranslateAPI.pdb
+G:\VSProject\GoogleTTSPlayer\GoogleTranslateAPI\GoogleTranslateAPI\obj\Release\GoogleTranslateAPI.csprojAssemblyReference.cache
+G:\VSProject\GoogleTTSPlayer\GoogleTranslateAPI\GoogleTranslateAPI\obj\Release\Interop.WMPLib.dll
+G:\VSProject\GoogleTTSPlayer\GoogleTranslateAPI\GoogleTranslateAPI\obj\Release\GoogleTranslateAPI.csproj.ResolveComReference.cache
+G:\VSProject\GoogleTTSPlayer\GoogleTranslateAPI\GoogleTranslateAPI\obj\Release\GoogleTranslateAPI.csproj.CoreCompileInputs.cache
+G:\VSProject\GoogleTTSPlayer\GoogleTranslateAPI\GoogleTranslateAPI\obj\Release\GoogleTranslateAPI.dll
+G:\VSProject\GoogleTTSPlayer\GoogleTranslateAPI\GoogleTranslateAPI\obj\Release\GoogleTranslateAPI.pdb
+G:\VSProject\GoogleTTSPlayer\GoogleTranslateWrapper\GoogleTranslateAPI\GoogleTranslateAPI\bin\Release\GoogleTranslateAPI.dll
+G:\VSProject\GoogleTTSPlayer\GoogleTranslateWrapper\GoogleTranslateAPI\GoogleTranslateAPI\bin\Release\GoogleTranslateAPI.pdb
+G:\VSProject\GoogleTTSPlayer\GoogleTranslateWrapper\GoogleTranslateAPI\GoogleTranslateAPI\obj\Release\Interop.WMPLib.dll
+G:\VSProject\GoogleTTSPlayer\GoogleTranslateWrapper\GoogleTranslateAPI\GoogleTranslateAPI\obj\Release\GoogleTranslateAPI.csproj.ResolveComReference.cache
+G:\VSProject\GoogleTTSPlayer\GoogleTranslateWrapper\GoogleTranslateAPI\GoogleTranslateAPI\obj\Release\GoogleTranslateAPI.csproj.CoreCompileInputs.cache
+G:\VSProject\GoogleTTSPlayer\GoogleTranslateWrapper\GoogleTranslateAPI\GoogleTranslateAPI\obj\Release\GoogleTranslateAPI.dll
+G:\VSProject\GoogleTTSPlayer\GoogleTranslateWrapper\GoogleTranslateAPI\GoogleTranslateAPI\obj\Release\GoogleTranslateAPI.pdb

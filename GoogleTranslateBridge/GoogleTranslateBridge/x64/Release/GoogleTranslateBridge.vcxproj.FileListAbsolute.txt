@@ -1,0 +1,4 @@
+C:\Users\USER\source\repos\GoogleTranslateBridge\GoogleTranslateBridge\x64\Release\GoogleTranslateBridge.vcxprojAssemblyReference.cache
+C:\Users\USER\source\repos\GoogleTranslateBridge\GoogleTranslateBridge\x64\Release\GoogleTranslateBridge.vcxproj.CopyComplete
+G:\VSProject\GoogleTTSPlayer\GoogleTranslateWrapper\GoogleTranslateBridge\GoogleTranslateBridge\x64\Release\GoogleTranslateBridge.vcxprojAssemblyReference.cache
+G:\VSProject\GoogleTTSPlayer\GoogleTranslateWrapper\GoogleTranslateBridge\GoogleTranslateBridge\x64\Release\GoogleTranslateBridge.vcxproj.CopyComplete

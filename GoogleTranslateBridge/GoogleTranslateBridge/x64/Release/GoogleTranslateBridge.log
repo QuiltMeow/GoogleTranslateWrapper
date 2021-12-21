@@ -1,0 +1,6 @@
+﻿  GoogleTranslateBridge.cpp
+  .NETFramework,Version=v4.5.AssemblyAttributes.cpp
+  正在產生程式碼...
+  GoogleTranslateBridge.obj : 發現 MSIL 模組。MSIL 的累加連結已停用。正在執行完整連結
+     正在建立程式庫 G:\VSProject\GoogleTTSPlayer\GoogleTranslateWrapper\GoogleTranslateBridge\x64\Release\GoogleTranslateBridge.lib 和物件 G:\VSProject\GoogleTTSPlayer\GoogleTranslateWrapper\GoogleTranslateBridge\x64\Release\GoogleTranslateBridge.exp
+  GoogleTranslateBridge.vcxproj -> G:\VSProject\GoogleTTSPlayer\GoogleTranslateWrapper\GoogleTranslateBridge\x64\Release\GoogleTranslateBridge.dll

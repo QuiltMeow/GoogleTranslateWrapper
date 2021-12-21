@@ -1,0 +1,62 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly GoogleTranslateAPI, Version=1.0.*, Culture=不因語言而異 (不因國別而異): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Net.Http, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Web.Extensions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35: 
+	hash=None, flags=None
+Assembly Microsoft.CSharp, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Class GoogleTranslateAPI.GoogleTranslate: AutoLayout, AnsiClass, Class, Public, Abstract, Sealed, BeforeFieldInit
+  Methods:
+    translate(String, String(Optional, HasDefault), String(Optional, HasDefault)): PrivateScope, Public, Static, HideBySig
+Class GoogleTranslateAPI.GoogleTTS: AutoLayout, AnsiClass, Class, Public, Abstract, Sealed, BeforeFieldInit
+  Methods:
+    getTTSRequest(String, String(Optional, HasDefault)): PrivateScope, Public, Static, HideBySig
+    playTTS(String, String(Optional, HasDefault)): PrivateScope, Public, Static, HideBySig
+Interface WMPLib.IWMPControls: AutoLayout, AnsiClass, Class, Public, ClassSemanticsMask, Abstract, Import
+  Methods:
+    play(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+Interface WMPLib.IWMPCore: AutoLayout, AnsiClass, Class, Public, ClassSemanticsMask, Abstract, Import
+Interface WMPLib.IWMPCore2: AutoLayout, AnsiClass, Class, Public, ClassSemanticsMask, Abstract, Import
+  Interfaces:
+    WMPLib.IWMPCore
+Interface WMPLib.IWMPCore3: AutoLayout, AnsiClass, Class, Public, ClassSemanticsMask, Abstract, Import
+  Interfaces:
+    WMPLib.IWMPCore2
+    WMPLib.IWMPCore
+Interface WMPLib.IWMPPlayer4: AutoLayout, AnsiClass, Class, Public, ClassSemanticsMask, Abstract, Import
+  Interfaces:
+    WMPLib.IWMPCore3
+    WMPLib.IWMPCore2
+    WMPLib.IWMPCore
+  Properties:
+    System.String URL 'get set' : 
+    WMPLib.IWMPControls controls 'get ' : 
+    WMPLib.IWMPSettings settings 'get ' : 
+  Methods:
+    get_URL(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract, SpecialName
+    set_URL(String(In, HasFieldMarshal)): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract, SpecialName
+    get_controls(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract, SpecialName
+    get_settings(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract, SpecialName
+Interface WMPLib.IWMPSettings: AutoLayout, AnsiClass, Class, Public, ClassSemanticsMask, Abstract, Import
+  Properties:
+    Int32 volume 'get set' : 
+  Methods:
+    get_volume(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract, SpecialName
+    set_volume(Int32(In)): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract, SpecialName
+Interface WMPLib.WindowsMediaPlayer: AutoLayout, AnsiClass, Class, Public, ClassSemanticsMask, Abstract, Import
+  Interfaces:
+    WMPLib.IWMPPlayer4
+    WMPLib.IWMPCore3
+    WMPLib.IWMPCore2
+    WMPLib.IWMPCore
+    WMPLib._WMPOCXEvents_Event
+Interface WMPLib._WMPOCXEvents: AutoLayout, AnsiClass, Class, Public, ClassSemanticsMask, Abstract, Import
+Interface WMPLib._WMPOCXEvents_Event: AutoLayout, AnsiClass, Class, Public, ClassSemanticsMask, Abstract, Import
